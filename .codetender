@@ -1,0 +1,28 @@
+{
+  "tokens": [
+    {
+      "pattern": "AlphaSierraPapa",
+      "prompt": "First part of namespace (ex: MyCompany):"
+    },
+    {
+      "pattern": "WhiskyEchoBravo",
+      "prompt": "Second part of namespace (ex: MyProject):"
+    },
+    {
+      "pattern": "MyClass",
+      "prompt": "Class name (ex: MyRepository):"
+    },
+    {
+      "pattern": "MyMethod",
+      "prompt": "Method name (ex: GetResult):"
+    },
+    {
+      "pattern": "MyController",
+      "prompt": "Controller name (ex: MyController):"
+    },
+    {
+      "pattern": "myroute",
+      "prompt": "API route (ex: myroute):"
+    }
+  ]
+}
