@@ -15,7 +15,7 @@ namespace AlphaSierraPapa.WhiskyEchoBravo.Web.Test.Internal
 
     protected override void ConfigureWebHost(IWebHostBuilder builder)
     {
-      // Laod any content from the project folder
+      // Load any content from the project folder
       builder.UseSolutionRelativeContentRoot("AlphaSierraPapa.WhiskyEchoBravo.Web.Test");
     }
   }
